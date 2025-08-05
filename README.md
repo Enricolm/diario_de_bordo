@@ -20,6 +20,7 @@ Este projeto implementa um pipeline de processamento de dados utilizando **Apach
 
 ## 📁 Estrutura de Pastas
 
+``` bash
 diario_de_bordo/
 ├── app/
 │ ├── DiarioDeBordo/
@@ -31,7 +32,7 @@ diario_de_bordo/
 ├── data/
 │ └── bronze/
 └── README.md
-
+```
 
 ## 🛠️ Tecnologias Utilizadas
 
